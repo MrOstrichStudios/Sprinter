@@ -43,9 +43,18 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Crouch",
+                    "name": "Slide",
                     "type": "Button",
                     "id": "884b8fea-30d3-4324-bffe-9ac3b3ca4214",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Grapple",
+                    "type": "Button",
+                    "id": "544f3f2e-4f39-4fd9-aa7a-3a4d9e683a6c",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -203,7 +212,18 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Crouch",
+                    "action": "Slide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3fadabb6-15fc-40cd-975d-0fcf1ea231d2",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grapple",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
