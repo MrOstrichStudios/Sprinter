@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WallMoveLeftDir
   - WallMoveRightDir
+  - Death
   layers:
   - Default
   - TransparentFX
