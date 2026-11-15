@@ -5,7 +5,7 @@ Hello I'm MrOstrich and this is my game Sprinter! which is a parkour game with c
 
 so yea this is the current state but **UPDATES** coming soon!
 ## How to PLAY?
-simply get the zip from the Releases (currently **v1.1-alpha**), extract the zip, then run Sprinter.exe then play!
+simply get the zip from the Releases (currently **v1.2-alpha**), extract the zip, then run Sprinter.exe then play!
 ## Controls:
 - WASD/Arrows Keys : Move
 - Mouse : Look
