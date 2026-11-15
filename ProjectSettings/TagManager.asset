@@ -9,6 +9,10 @@ TagManager:
   - Death
   - Checkpoint1
   - Checkpoint2
+  - PlatformRotationPlus
+  - PlatformRotationMinus
+  - RoadblockPlus
+  - RoadblockMinus
   layers:
   - Default
   - TransparentFX
