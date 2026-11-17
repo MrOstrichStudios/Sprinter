@@ -14,7 +14,8 @@ simply get the zip from the Releases (currently **v1.3-alpha**), extract the zip
 - Left Ctrl : Slide
 - LMB : Grapple
 - RMB : Swing
-- R : Reset Level
+- R : Retry Level (After Death Only)
+- Q : Retry from Last Checkpoint (After Death Only)
 - Alt + F4 : Quit
 ## Source Code?
 this was build in **Unity 6000.0.66f2 LTS** using **Visual Scripting** but this repo **doesn't contain** _Library files_ but rest are here! **make sure to get those!**
