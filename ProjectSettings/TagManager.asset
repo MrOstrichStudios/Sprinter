@@ -13,6 +13,8 @@ TagManager:
   - PlatformRotationMinus
   - RoadblockPlus
   - RoadblockMinus
+  - MovePlus
+  - MoveMinus
   layers:
   - Default
   - TransparentFX
